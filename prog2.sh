@@ -4,6 +4,8 @@ echo "the arguments are ${*}"
 echo "the first argument is : $1"
 echo "shifting by one"
 shift 1
+echo "we are working two jobs"
+
 echo "hi there"
 echo "we are working"
 echo "another line"
